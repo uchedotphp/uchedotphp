@@ -1,4 +1,4 @@
-### Hello 👋 my name is Uche and i am your Front-end Engineer!                                  ![I am Groot](https://www.triggatech.com/Groot-PNG-Image-Transparent.png)
+| ### Hello 👋 my name is Uche and i am your Front-end Engineer! | ![I am Groot](https://www.triggatech.com/Groot-PNG-Image-Transparent.png) |
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Svelte and Javascript Data Structures and Algorithms
