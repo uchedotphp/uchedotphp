@@ -1,4 +1,4 @@
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
   
 ### Hello 👋 my name is Uche and i am your Front-end Engineer!
 - 🔭 I’m currently working on myself
@@ -10,16 +10,8 @@
 - 😄 Pronouns: I
 - ⚡ Fun fact: I  AM SPECIAL
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="50%">
 
 ![I am Groot](https://www.triggatech.com/Groot-PNG-Image-Transparent.png)
-
-</td><td valign="top" width="33%">
-  
-  ### TIL
-<!-- tils starts -->
-[Display EC2 instance costs per month](https://til.simonwillison.net/til/til/aws_instance-costs-per-month.md) - 2020-09-07
-
-[Very basic tsc usage](https://til.simonwillison.net/til/til/typescript_basic-tsc.md) - 2020-09-06
 
 </td></tr></table>
