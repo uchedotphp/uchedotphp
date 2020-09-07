@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**uchedotphp/uchedotphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there and welcome 👋
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Vue.js and Flutter
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425
 - 😄 Pronouns: I
 - ⚡ Fun fact: I  AM SPECIAL
--->
