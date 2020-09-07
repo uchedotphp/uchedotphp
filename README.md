@@ -16,7 +16,7 @@
 * [x] VCS: Git
 * [x] Element UI
 
-</td><td valign="top" width="50%">
+</td><td valign="middle" width="50%">
 
 ![I am Groot](https://www.triggatech.com/Groot-PNG-Image-Transparent.png)
 
