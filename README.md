@@ -1,4 +1,4 @@
-### Hi there and welcome 👋
+### Hello 👋 my name is Uche and i am your Front-end Engineer!
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Svelte and Javascript Data Structures and Algorithms
