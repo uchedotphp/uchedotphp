@@ -20,5 +20,12 @@
 </td><td valign="middle" width="50%">
 
 ![I am Groot](https://www.triggatech.com/Groot-PNG-Image-Transparent.png)
+###### My Portfolios:
+<p>
+	<a href="https://triggatech.com"><img height="50" src="https://www.triggatech.com/TriggaTechLogo.png" alt="TriggaTech"></a>
+	<a href="http://thrivrmagazine.com/"><img height="50" src="https://www.triggatech.com/Thrivr-Logo.png" alt="Thrivr Magazine"></a>
+	<a href="http://cypresshillconsulting.com/"><img height="50" src="https://www.triggatech.com/cypresshillconsulting_logo.png" alt="Cypresshill Consulting"></a>
+	<a href="https://pharmacyplusltd.com/" target="_blank"><img height="50" src="https://www.triggatech.com/PharmacyPlusLogo.png" alt="PharmacyPlus Ltd."></a>
+</p>
 
 </td></tr></table>
