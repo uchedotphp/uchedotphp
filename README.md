@@ -20,7 +20,7 @@
 </td><td valign="middle" width="50%">
 
 ![I am Groot](https://www.triggatech.com/Groot-PNG-Image-Transparent.png)
-###### My Portfolios:
+###### Some of my Portfolios:
 <p>
 	<a href="https://triggatech.com"><img height="50" src="https://www.triggatech.com/TriggaTechLogo.png" alt="TriggaTech"></a>
 	<a href="http://thrivrmagazine.com/"><img height="50" src="https://www.triggatech.com/Thrivr-Logo.png" alt="Thrivr Magazine"></a>
