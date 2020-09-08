@@ -11,7 +11,7 @@
 * [x] Bootstrap, TailwindCSS
 * [x] Vanilla JavaScript, ES6, OOP Javascript, jQuery
 * [x] Vuejs
-* [x] HTTP Requests using Axios
+* [x] HTTP Requests using Axios or Fetch API
 * [x] Markdown
 * [x] WordPress
 * [x] VCS: Git
