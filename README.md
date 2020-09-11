@@ -17,7 +17,7 @@
 * [x] VCS: Git
 * [x] Element UI
 * [x] Testing (Jest)
-* [x] Debugging
+* [x] Code Debugging
 
 </td><td valign="middle" width="50%">
 
