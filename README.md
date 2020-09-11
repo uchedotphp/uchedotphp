@@ -16,8 +16,7 @@
 * [x] WordPress
 * [x] VCS: Git
 * [x] Element UI
-* [x] Testing (Jest)
-* [x] Code Debugging
+* [x] Testing (Jest), Code Debugging, CI/CD
 
 </td><td valign="middle" width="50%">
 
