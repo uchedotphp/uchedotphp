@@ -2,7 +2,7 @@
   
 ### Hello 👋 my name is Uche and i am your Front-end Engineer!
 
-- 🌱 I’m currently learning TypeScript, Svelte, Quasar and Javascript Data Structures and Algorithms.
+- 🌱 I’m currently learning TypeScript, Svelte, Javascript Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Vue.js and Flutter.
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425
 
@@ -11,6 +11,7 @@
 * [x] Bootstrap, TailwindCSS
 * [x] Vanilla JavaScript, ES6, OOP Javascript, jQuery
 * [x] Vuejs
+* [x] Quasar
 * [x] HTTP Requests using Axios or Fetch API
 * [x] Markdown
 * [x] WordPress
