@@ -7,17 +7,18 @@
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425
 
 ⚡ Dev.Skills:
-* [x] Html5, CSS3, SaSS(SCSS)
-* [x] Bootstrap, TailwindCSS
-* [x] Vanilla JavaScript, ES6, OOP Javascript, jQuery
-* [x] Vuejs
-* [x] Quasar
-* [x] HTTP Requests using Axios or Fetch API
-* [x] Markdown
-* [x] WordPress
-* [x] VCS: Git
-* [x] Element UI
-* [x] Testing (Jest), Code Debugging, CI/CD, RegExp
+* [x] Html5, CSS3, SaSS(SCSS).
+* [x] Bootstrap, TailwindCSS.
+* [x] Vanilla JavaScript, jQuery.
+* [x] ES6, OOP Javascript, Asynchronous JavaScript.
+* [x] Vue.js
+* [x] Quasar.
+* [x] API calls/HTTP Requests using Axios or Fetch API.
+* [x] Markdown.
+* [x] WordPress.
+* [x] VCS: Git.
+* [x] Element UI.
+* [x] Testing (Jest), Code Debugging, CI/CD, RegExp.
 
 </td><td valign="middle" width="50%">
 
