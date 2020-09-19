@@ -12,7 +12,6 @@
 * [x] Vanilla JavaScript, jQuery.
 * [x] ES6, OOP Javascript, Asynchronous JavaScript.
 * [x] Vue.js
-* [x] Quasar.
 * [x] API calls/HTTP Requests using Axios or Fetch API.
 * [x] Markdown.
 * [x] WordPress.
