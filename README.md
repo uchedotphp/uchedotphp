@@ -19,7 +19,7 @@
 * [x] WordPress.
 * [x] VCS: Git.
 * [x] Element UI.
-* [x] Testing (Jest), Code Debugging, CI/CD, RegExp.
+* [x] Testing (Jest), Code Debugging, RegExp.
 
 </td><td valign="middle" width="50%">
 
