@@ -31,6 +31,7 @@
 	<a href="http://cypresshillconsulting.com/"><img height="50" src="https://www.triggatech.com/cypresshillconsulting_logo.png" alt="Cypresshill Consulting"></a>
 	<a href="https://pharmacyplusltd.com/" target="_blank"><img height="50" src="https://www.triggatech.com/PharmacyPlusLogo.png" alt="PharmacyPlus Ltd."></a>
 	<a href="http://etiquetteplace.net/" target="_blank"><img height="50" src="http://etiquetteplace.net/etiquettteplace_logo.png" alt="The Etiquette Place."></a>
+	<a href="https://brandphysio.com/" target="_blank"><img height="50" src="https://brandphysio.com/BrandPhysiologo.png" alt="Brand Physio"></a>
 </p>
 
 </td></tr></table>
