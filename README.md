@@ -15,6 +15,7 @@
 * [x] Webpack
 * [x] Vue.js
 * [x] Storybook with Vue.js
+* [x] Component Driven User Interfaces
 * [x] API calls/HTTP Requests using Axios or Fetch API.
 * [x] Markdown.
 * [x] WordPress.
