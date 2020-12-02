@@ -14,6 +14,7 @@
 * [x] ES6 Modules & commonJS
 * [x] Webpack
 * [x] Vue.js
+* [x] Storybook with Vue.js
 * [x] API calls/HTTP Requests using Axios or Fetch API.
 * [x] Markdown.
 * [x] WordPress.
