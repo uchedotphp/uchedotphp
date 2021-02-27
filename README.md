@@ -2,8 +2,8 @@
   
 ### Hello 👋 my name is Uche and i am your Front-end Engineer!
 
-- 🌱 I’m currently learning TypeScript,Node, React.js, Javascript Data Structures and Algorithms and looking to start a YouTube channel.
-- 👯 I’m looking to collaborate on Vue.js and Flutter.
+- 🌱 I’m currently learning TypeScript,Node,Javascript Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on Vue.js and Node.
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425
 
 ⚡ Dev.Skills:
