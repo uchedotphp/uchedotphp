@@ -29,7 +29,7 @@
 
 </td><td valign="middle" width="50%">
 
-![I am Groot](https://www.triggatech.com/Groot-PNG-Image-Transparent.png)
+![I am Groot](https://lengtechltd.com/Groot-PNG-Image-Transparent.png)
 ###### Some of my Portfolios:
 <p>
 	<a href="https://triggatech.com"><img height="50" src="https://www.triggatech.com/TriggaTechLogo.png" alt="TriggaTech"></a>
