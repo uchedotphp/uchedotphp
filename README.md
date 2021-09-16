@@ -32,11 +32,12 @@
 ![I am Groot](https://lengtechltd.com/Groot-PNG-Image-Transparent.png)
 ###### Some of my Portfolios:
 <p>
-	<a href="https://triggatech.com"><img height="50" src="https://www.triggatech.com/TriggaTechLogo.png" alt="TriggaTech"></a>
-	<a href="http://thrivrmagazine.com/"><img height="50" src="https://www.triggatech.com/Thrivr-Logo.png" alt="Thrivr Magazine"></a>
-	<a href="http://cypresshillconsulting.com/"><img height="50" src="https://www.triggatech.com/cypresshillconsulting_logo.png" alt="Cypresshill Consulting"></a>
-	<a href="https://pharmacyplusltd.com/" target="_blank"><img height="50" src="https://www.triggatech.com/PharmacyPlusLogo.png" alt="PharmacyPlus Ltd."></a>
-	<a href="https://brandphysio.com/" target="_blank"><img height="50" src="https://brandphysio.com/BrandPhysiologo.png" alt="Brand Physio"></a>
+	<a href="https://www.getwelp.com/"><img height="50" src="https://lengtechltd.com/getwelp.png" alt="Get Welp"></a>
+	<a href="https://www.superpow.app/"><img height="50" src="https://lengtechltd.com/Pow-01.webp" alt="Superpow"></a>
+	<a href="http://thrivrmagazine.com/"><img height="50" src="https://lengtechltd.com/Thrivr-Logo.png" alt="Thrivr Magazine"></a>
+	<a href="http://cypresshillconsulting.com/"><img height="50" src="https://lengtechltd.com/cypresshill-logo.png" alt="Cypresshill Consulting"></a>
+	<a href="https://pharmacyplusltd.com/" target="_blank"><img height="50" src="https://lengtechltd.com/PharmacyPlusLogo.png" alt="PharmacyPlus Ltd."></a>
+	<a href="https://brandphysio.com/" target="_blank"><img height="50" src="https://lengtechltd.com/BrandPhysiologo.png" alt="Brand Physio"></a>
 </p>
 
 </td></tr></table>
