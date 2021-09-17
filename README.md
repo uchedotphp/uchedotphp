@@ -25,6 +25,7 @@
 * [x] WordPress.
 * [x] VCS: Git.
 * [x] Element UI.
+* [x] Understanding of Node ecosystem
 * [x] Testing (Jest), Code Debugging, RegExp.
 
 ⚡ Productivity Tools:
