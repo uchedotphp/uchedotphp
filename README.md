@@ -8,6 +8,7 @@
 * [x] Bootstrap, BootstrapVue, TailwindCSS.
 * [x] Vanilla JavaScript, jQuery.
 * [x] ES6, OOP Javascript, Asynchronous JavaScript.
+* [x] ES Next.
 * [ ] TypeScript
 * [x] Data Structures and Algorithms
 * [x] ES6 Modules & commonJS
