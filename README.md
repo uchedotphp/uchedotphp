@@ -1,9 +1,6 @@
 <table><tr><td valign="middle" width="50%">
   
 ### Hello 👋 my name is Uche and i am your Front-end Engineer!
-
-- 🌱 I’m currently learning React,Node.js.
-- 👯 I’m looking to collaborate on Vue.js and Node.
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425
 
 ⚡ Dev.Skills:
