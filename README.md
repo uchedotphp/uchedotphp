@@ -31,6 +31,11 @@
 * [x] Element UI.
 * [x] Testing (Jest), Code Debugging, RegExp.
 
+⚡ Productivity Tools:
+* [x] Notion.
+* [x] Slack.
+* [x] Trello.
+
 </td><td valign="middle" width="50%">
 
 ![I am Groot](https://lengtechltd.com/Groot-PNG-Image-Transparent.png)
