@@ -2,7 +2,7 @@
   
 ### Hello 👋 my name is Uche and i am your Front-end Engineer!
 
-- 🌱 I’m currently learning React,Node.js, Data Structures and Algorithms.
+- 🌱 I’m currently learning React,Node.js.
 - 👯 I’m looking to collaborate on Vue.js and Node.
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425
 
@@ -12,6 +12,7 @@
 * [x] Vanilla JavaScript, jQuery.
 * [x] ES6, OOP Javascript, Asynchronous JavaScript.
 * [ ] TypeScript
+* [x] Data Structures and Algorithms
 * [x] ES6 Modules & commonJS
 * [x] Webpack
 * [x] Vue.js
