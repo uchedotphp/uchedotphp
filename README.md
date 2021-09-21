@@ -15,7 +15,8 @@
 * [x] Webpack
 * [x] Vue.js
 * [x] Vue3
-* [x] Vuex
+* [x] Vuex(v3.x) and Vuex(v4.x)
+* [x] TypeScript
 * [x] Vue Router
 * [x] Nuxtjs
 * [x] Storybook with Vue.js
