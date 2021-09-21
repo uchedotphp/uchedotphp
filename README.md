@@ -13,8 +13,7 @@
 * [x] Data Structures and Algorithms
 * [x] ES6 Modules & commonJS
 * [x] Webpack
-* [x] Vue.js (Vue2.x)
-* [x] Vue3.x
+* [x] Vue.js (Vue2.x) and Vue3.x
 * [x] Vuex(v3.x) and Vuex(v4.x)
 * [x] TypeScript
 * [x] Vue Router
