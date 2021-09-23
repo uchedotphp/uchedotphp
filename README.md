@@ -15,6 +15,7 @@
 * [x] Webpack
 * [x] Vue.js (Vue2.x) and Vue3.x
 * [x] Vuex(v3.x) and Vuex(v4.x)
+* [x] Vue3 Composition Api. 
 * [x] TypeScript
 * [x] Vue Router
 * [x] Nuxtjs
