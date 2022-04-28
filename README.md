@@ -19,6 +19,7 @@
 * [x] TypeScript
 * [x] Vue Router
 * [x] Nuxtjs
+* [x] Quasar
 * [x] Storybook with Vue.js
 * [x] Component Driven User Interfaces
 * [x] API calls/HTTP Requests using Axios or Fetch API.
@@ -32,6 +33,7 @@
 
 ⚡ Productivity Tools:
 * [x] Notion.
+* [x] ClickUp.
 * [x] Slack.
 * [x] Trello.
 
