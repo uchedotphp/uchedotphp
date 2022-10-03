@@ -23,7 +23,7 @@
 * [x] Storybookjs
 * [x] Component Driven User Interfaces
 * [x] API calls/HTTP Requests using Axios or Fetch API.
-* [ ] GraphQL
+* [X] API mocking using Mock Service Worker.
 * [x] Markdown.
 * [x] WordPress.
 * [x] VCS: Git.
