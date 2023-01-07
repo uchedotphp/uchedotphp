@@ -52,7 +52,7 @@
 </td><td valign="middle" width="50%">
 
 ![I am Groot](https://brandphysio.com/images/babygroot.svg)
-###### Some of my Portfolios:
+###### Some of my projects:
 <p>
 	<a href="https://www.getwelp.com/"><img height="40" src="https://lengtechltd.com/getwelp.png" alt="Get Welp"></a>
 	<a href="https://www.superpow.app/"><img height="50" src="https://lengtechltd.com/Pow-01.webp" alt="Superpow"></a>
