@@ -54,10 +54,9 @@
 ![I am Groot](https://brandphysio.com/images/babygroot.svg)
 ###### Some of my projects:
 <p>
-	<a href="https://www.getwelp.com/"><img height="40" src="https://lengtechltd.com/getwelp.png" alt="Get Welp"></a>
-	<a href="https://www.superpow.app/"><img height="50" src="https://lengtechltd.com/Pow-01.webp" alt="Superpow"></a>
-	<a href="https://zuvy.co/"><img height="50" src="https://lengtechltd.com/Pow-01.webp" alt="Zuvy"></a>
-	<a href="http://cypresshillconsulting.com/"><img height="50" src="https://lengtechltd.com/cypresshill-logo.png" alt="Cypresshill Consulting"></a></a>
+	<a href="https://www.getwelp.com/"><img height="40" src="https://brandphysio.com/images/WelpLogo.svg" alt="Get Welp"></a>
+	<a href="https://www.getwelp.com/"><img height="40" src="https://brandphysio.com/images/logo.svg" alt="Zuvy"></a>
+	<a href="https://www.superpow.app/"><img height="50" src="https://brandphysio.com/images/superpowLogo.avif" alt="Superpow"></a></a>
 </p>
 
 </td></tr></table>
