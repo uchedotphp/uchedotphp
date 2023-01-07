@@ -9,8 +9,7 @@
 * [x] Vanilla JavaScript, jQuery.
 * [x] ES6, OOP Javascript, Asynchronous JavaScript.
 * [x] ES Next.
-* [x] TypeScript
-* [x] Data Structures and Algorithms
+* [x] TypeScript.
 * [x] ES6 Modules & commonJS
 * [x] Webpack
 * [x] Vue.js (Vue2.x) and Vue3.x
@@ -20,16 +19,29 @@
 * [x] Vue Router
 * [x] Nuxtjs
 * [x] Quasar
-* [x] Storybookjs
 * [x] Component Driven User Interfaces
 * [x] API calls/HTTP Requests using Axios or Fetch API.
 * [X] API mocking using Mock Service Worker.
 * [x] Markdown.
-* [x] WordPress.
 * [x] VCS: Git.
 * [x] Element UI.
 * [x] Understanding of Node ecosystem
-* [x] Testing (Jest), Code Debugging, RegExp.
+* [x] Testing (Jest), Code Debugging.
+
+⚡ Learning in 2023:
+* [ ] Technical writing.
+* [ ] Flutter.
+* [ ] Pinia.
+* [ ] Vite and ViteTesting.
+* [ ] Testing with Cypress.
+* [ ] RegExp.
+* [ ] Firebase.
+* [ ] Storybookjs.
+* [ ] Nuxt3.
+* [ ] Data Structures and Algorithms
+* [ ] DevOps.
+* [ ] Swift.
+* [ ] Python.
 
 ⚡ Productivity Tools:
 * [x] Notion.
