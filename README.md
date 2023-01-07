@@ -51,15 +51,13 @@
 
 </td><td valign="middle" width="50%">
 
-![I am Groot](https://lengtechltd.com/Groot-PNG-Image-Transparent.png)
+![I am Iron man](https://wgh11.wghservers.com:2083/cpsess1352153827/frontend/paper_lantern/filemanager/showfile.html?file=avengers-characterpose-ironman_30193360.webp&fileop=&dir=%2Fhome%2Flolocyco%2Fpublic_html%2Fbook-me&dirop=&charset=&file_charset=&baseurl=&basedir=)
 ###### Some of my Portfolios:
 <p>
 	<a href="https://www.getwelp.com/"><img height="40" src="https://lengtechltd.com/getwelp.png" alt="Get Welp"></a>
 	<a href="https://www.superpow.app/"><img height="50" src="https://lengtechltd.com/Pow-01.webp" alt="Superpow"></a>
-	<a href="http://thrivrmagazine.com/"><img height="50" src="https://lengtechltd.com/Thrivr-Logo.png" alt="Thrivr Magazine"></a>
-	<a href="http://cypresshillconsulting.com/"><img height="50" src="https://lengtechltd.com/cypresshill-logo.png" alt="Cypresshill Consulting"></a>
-	<a href="https://pharmacyplusltd.com/" target="_blank"><img height="50" src="https://lengtechltd.com/PharmacyPlusLogo.png" alt="PharmacyPlus Ltd."></a>
-	<a href="https://brandphysio.com/" target="_blank"><img height="50" src="https://lengtechltd.com/BrandPhysiologo.png" alt="Brand Physio"></a>
+	<a href="https://zuvy.co/"><img height="50" src="https://lengtechltd.com/Pow-01.webp" alt="Zuvy"></a>
+	<a href="http://cypresshillconsulting.com/"><img height="50" src="https://lengtechltd.com/cypresshill-logo.png" alt="Cypresshill Consulting"></a></a>
 </p>
 
 </td></tr></table>
