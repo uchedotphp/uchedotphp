@@ -28,7 +28,7 @@
 * [x] Understanding of Node ecosystem
 * [x] Testing (Jest), Code Debugging.
 
-⚡ Learning in 2023:
+⚡ Currently Learning:
 * [ ] Technical writing.
 * [ ] Flutter.
 * [ ] Pinia.
