@@ -38,7 +38,7 @@
 * [ ] Firebase.
 * [ ] Storybookjs.
 * [ ] Nuxt3.
-* [ ] Data Structures and Algorithms
+* [ ] Data Structures and Algorithms.
 * [ ] DevOps.
 * [ ] Swift.
 * [ ] Python.
