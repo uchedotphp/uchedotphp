@@ -12,6 +12,11 @@
 * [x] TypeScript.
 * [x] ES6 Modules & commonJS
 * [x] Webpack.
+* [x] Svelte.
+* [x] SvelteKit.
+* [x] Pinia.
+* [x] Vite and ViteTesting.
+* [x] Testing with Cypress.
 * [x] Vue.js (Vue2.x) and Vue3.x
 * [x] Vuex(v3.x) and Vuex(v4.x)
 * [x] Vue3 Composition Api. 
@@ -31,10 +36,6 @@
 ⚡ Currently Learning:
 * [ ] Technical writing.
 * [ ] Flutter.
-* [ ] Pinia.
-* [ ] Vite and ViteTesting.
-* [ ] Testing with Cypress.
-* [ ] RegExp.
 * [ ] Firebase.
 * [ ] Storybookjs.
 * [ ] Nuxt3.
