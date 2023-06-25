@@ -5,39 +5,32 @@
 
 ⚡ Dev.Skills:
 * [x] Html5, CSS3, SaSS(SCSS).
-* [x] Bootstrap, BootstrapVue, TailwindCSS.
-* [x] Vanilla JavaScript, jQuery.
-* [x] ES6, OOP Javascript, Asynchronous JavaScript.
-* [x] ES Next.
+* [x] Bootstrap, TailwindCSS.
+* [x] Vanilla JavaScript, jQuery, ES6, OOP Javascript, Asynchronous JavaScript.
+* [x] ES Next, ES6 Modules & commonJS.
 * [x] TypeScript.
-* [x] ES6 Modules & commonJS
-* [x] Webpack.
-* [x] Svelte.
-* [x] SvelteKit.
-* [x] Pinia.
-* [x] Vite and ViteTesting.
-* [x] Testing with Cypress.
 * [x] Vue.js (Vue2.x) and Vue3.x
-* [x] Vuex(v3.x) and Vuex(v4.x)
 * [x] Vue3 Composition Api. 
-* [x] TypeScript.
-* [x] Vue Router
+* [x] Vue Router.
 * [x] Nuxtjs
-* [x] Quasar
+* [x] Quasar.
+* [x] State Management using: Pinia, Vuex(v3.x) and Vuex(v4.x).
+* [x] Testing with Cypress, Jest, Code Debugging.
+* [x] Webpack.
+* [x] Vite and ViteTesting.
+* [x] Svelte & SvelteKit.
 * [x] Component Driven User Interfaces
 * [x] API calls/HTTP Requests using Axios or Fetch API.
 * [X] API mocking using Mock Service Worker.
-* [x] Markdown.
-* [x] VCS: Git.
+* [x] Documentations: Markdown(.md), Storybookjs (Component Documentation).
+* [x] Version Control System: Git.
 * [x] Element UI.
-* [x] Understanding of Node ecosystem
-* [x] Testing (Jest), Code Debugging.
+* [x] Understanding of Node ecosystem.
 
 ⚡ Currently Learning:
 * [ ] Technical writing.
 * [ ] Flutter.
 * [ ] Firebase.
-* [ ] Storybookjs.
 * [ ] Nuxt3.
 * [ ] Data Structures and Algorithms.
 * [ ] DevOps.
