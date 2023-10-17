@@ -26,6 +26,7 @@
 * [x] Version Control System: Git.
 * [x] Element UI.
 * [x] Understanding of Node ecosystem.
+* [x] CRO Expert tools: Adobe Target
 
 ⚡ Currently Learning:
 * [ ] Technical writing.
