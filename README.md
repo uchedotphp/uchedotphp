@@ -32,11 +32,10 @@
 * [ ] Technical writing.
 * [ ] Flutter.
 * [ ] Firebase.
+* [ ] Supabase.
 * [ ] Nuxt3.
 * [ ] Data Structures and Algorithms.
 * [ ] DevOps.
-* [ ] Swift.
-* [ ] Python.
 
 ⚡ Productivity Tools:
 * [x] Notion.
