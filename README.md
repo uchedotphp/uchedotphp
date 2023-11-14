@@ -12,7 +12,7 @@
 * [x] Vue.js (Vue2.x) and Vue3.x
 * [x] Vue3 Composition Api. 
 * [x] Vue Router.
-* [x] Nuxtjs
+* [x] Nuxtjs.
 * [x] Quasar.
 * [x] State Management using: Pinia, Vuex(v3.x) and Vuex(v4.x).
 * [x] Testing with Cypress, Jest, Code Debugging.
