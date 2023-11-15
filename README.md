@@ -36,6 +36,7 @@
 * [ ] Nuxt3.
 * [ ] Data Structures and Algorithms.
 * [ ] DevOps.
+* [ ] Linux.
 
 ⚡ Productivity Tools:
 * [x] Notion.
