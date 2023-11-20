@@ -1,7 +1,7 @@
 <table><tr><td valign="middle" width="50%">
   
 ### Hello 👋 my name is Uche and i am your Front-end Engineer!
-- 📫 How to reach me: uchedotphp@gmail.com | +2347063596425
+- 📫 How to reach me: uchedotphp@gmail.com | +2347063596425.
 
 ⚡ Dev.Skills:
 * [x] Html5, CSS3, SaSS(SCSS).
