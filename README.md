@@ -26,7 +26,7 @@
 * [x] Version Control System: Git.
 * [x] Element UI.
 * [x] Understanding of Node ecosystem.
-* [x] CRO(Conversion Rate Optimization) Expert tools: Adobe Target, Convert.
+* [x] CRO(Conversion Rate Optimization) Expert tools: Adobe Target, Convert.com.
 
 ⚡ Currently Learning:
 * [ ] Technical writing.
