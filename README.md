@@ -50,7 +50,6 @@
 ![I am Groot](https://brandphysio.com/images/babygroot.svg)
 ###### Some of my projects:
 <p>
-	<a href="https://www.getwelp.com/"><img height="40" src="https://brandphysio.com/images/WelpLogo.svg" alt="Get Welp"></a>
 	<a href="https://zuvy.co/"><img height="40" src="https://brandphysio.com/images/logo.svg" alt="Zuvy"></a>
 	<a href="https://www.superpow.app/"><img height="50" src="https://brandphysio.com/images/superpowLogo.png" alt="Superpow"></a></a>
 </p>
