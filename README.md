@@ -43,7 +43,7 @@
 * [x] ClickUp.
 * [x] Slack.
 * [x] Trello.
-* [x] Postman and Hoppscotch (For API testing).
+* [x] Postman and Hoppscotch (For API testing)
 
 </td><td valign="middle" width="50%">
 
