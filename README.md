@@ -37,6 +37,7 @@
 * [ ] Data Structures and Algorithms.
 * [ ] DevOps.
 * [ ] Linux.
+* [ ] Python.
 
 ⚡ Productivity Tools:
 * [x] Notion.
