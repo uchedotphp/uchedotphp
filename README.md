@@ -3,7 +3,7 @@
 ### Hello 👋 my name is Uche and i am your Front-end Engineer!
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425.
 
-⚡ Dev.Skills::
+⚡ Dev.Skills:
 * [x] Html5, CSS3, SaSS(SCSS).
 * [x] Bootstrap, TailwindCSS.
 * [x] Vanilla JavaScript, jQuery, ES6, OOP Javascript, Asynchronous JavaScript.
