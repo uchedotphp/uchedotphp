@@ -34,16 +34,17 @@
 * [ ] Firebase.
 * [ ] Supabase.
 * [ ] Nuxt3.
-* [ ] Data Structures and Algorithms.
 * [ ] DevOps.
 * [ ] Linux.
-* [ ] Python.
+* [ ] React.
+* [ ] ReactNative.
 
 ⚡ Productivity Tools:
 * [x] Notion.
 * [x] ClickUp.
 * [x] Slack.
 * [x] Trello.
+* [x] Jira.
 * [x] Postman and Hoppscotch (For API testing)
 
 </td><td valign="middle" width="50%">
