@@ -26,17 +26,16 @@
 * [x] Version Control System: Git.
 * [x] Element UI.
 * [x] CRO(Conversion Rate Optimization) Expert tools: Adobe Target, Convert.com.
+* [x] DevOps using Docker.
 
 ⚡ Currently Learning:
 * [ ] Technical writing.
-* [ ] Flutter.
 * [ ] Firebase.
 * [ ] Supabase.
 * [ ] Nuxt3.
-* [ ] DevOps.
+* [ ] DevOps(kubernetes).
 * [ ] Linux.
 * [ ] React.
-* [ ] ReactNative.
 
 ⚡ Productivity Tools:
 * [x] Notion.
@@ -45,6 +44,7 @@
 * [x] Trello.
 * [x] Jira.
 * [x] Postman and Hoppscotch (For API testing)
+* [x] Docker.
 
 </td><td valign="middle" width="50%">
 
