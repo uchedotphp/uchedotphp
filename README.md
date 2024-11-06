@@ -4,17 +4,18 @@
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425.
 
 ⚡ Dev.Skills:
-* [x] Html5, CSS3, SaSS(SCSS).
-* [x] Bootstrap, TailwindCSS.
-* [x] Vanilla JavaScript, jQuery, ES6, OOP Javascript, Asynchronous JavaScript.
-* [x] ES Next, ES6 Modules & commonJS.
-* [x] TypeScript.
+* [x] Astro
 * [x] Vue.js (Vue2.x) and Vue3.x
+* [x] TypeScript.
 * [x] Vue3 Composition Api. 
 * [x] Vue Router.
 * [x] Nuxt2, Nuxt3.
 * [x] Quasar.
 * [x] State Management using: Pinia, Vuex(v3.x) and Vuex(v4.x).
+* [x] Html5, CSS3, SaSS(SCSS).
+* [x] Bootstrap, TailwindCSS.
+* [x] Vanilla JavaScript, jQuery, ES6, OOP Javascript, Asynchronous JavaScript.
+* [x] ES Next, ES6 Modules & commonJS.
 * [x] Testing with Cypress, Jest, Code Debugging.
 * [x] Webpack.
 * [x] Vite and ViteTesting.
