@@ -3,9 +3,14 @@
 ### Hello 👋 my name is Uche and i am your Front-end Engineer!
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425.
 
+⚡ Dev. Libraries and Frameworks:
+* [x] Astro.js
+* [x] Vue.js (Vue2.x)
+* [ ] Vue.js (Vue3.x)
+* [ ] React.js
+* [ ] Next.js
+
 ⚡ Dev.Skills:
-* [x] Astro
-* [x] Vue.js (Vue2.x) and Vue3.x
 * [x] TypeScript.
 * [x] Vue3 Composition Api. 
 * [x] Vue Router.
