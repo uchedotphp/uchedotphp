@@ -16,7 +16,7 @@
 * [x] Vue Router.
 * [x] Nuxt2, Nuxt3.
 * [x] Quasar.
-* [x] State Management using: Pinia, Vuex(v3.x) and Vuex(v4.x).
+* [x] State Management using: createContext, Redux, Pinia, Vuex(v3.x) and Vuex(v4.x).
 * [x] Html5, CSS3, SaSS(SCSS).
 * [x] Bootstrap, TailwindCSS.
 * [x] Vanilla JavaScript, jQuery, ES6, OOP Javascript, Asynchronous JavaScript.
@@ -26,7 +26,7 @@
 * [x] Vite and ViteTesting.
 * [x] Svelte & SvelteKit.
 * [x] Component Driven User Interfaces
-* [x] API calls/HTTP Requests using Axios or Fetch API.
+* [x] API calls/HTTP Requests using Axios or Fetch API, React Query.
 * [X] API mocking using Mock Service Worker.
 * [x] Documentations: Markdown(.md), Storybookjs (Component Documentation).
 * [x] Version Control System: Git.
