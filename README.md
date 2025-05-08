@@ -6,8 +6,8 @@
 ⚡ Dev. Libraries and Frameworks:
 * [x] Astro.js
 * [x] Vue.js (Vue2.x)
-* [ ] Vue.js (Vue3.x)
-* [ ] React.js
+* [x] Vue.js (Vue3.x)
+* [x] React.js
 * [ ] Next.js
 
 ⚡ Dev.Skills:
