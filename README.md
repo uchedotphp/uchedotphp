@@ -7,8 +7,8 @@
 * [x] Astro.js
 * [x] Vue.js (Vue2.x)
 * [x] Vue.js (Vue3.x)
-* [x] React.js
-* [ ] Next.js
+* [x] React.js (18^)
+* [ ] Next.js (14^)
 
 ⚡ Dev.Skills:
 * [x] TypeScript.
@@ -16,17 +16,15 @@
 * [x] Vue Router.
 * [x] Nuxt2, Nuxt3.
 * [x] Quasar.
-* [x] State Management using: createContext, Redux, Pinia, Vuex(v3.x) and Vuex(v4.x).
+* [x] State Management using: contextApi, Zustand, Pinia, Vuex(v3.x) and Vuex(v4.x).
 * [x] Html5, CSS3, SaSS(SCSS).
 * [x] Bootstrap, TailwindCSS.
 * [x] Vanilla JavaScript, jQuery, ES6, OOP Javascript, Asynchronous JavaScript.
 * [x] ES Next, ES6 Modules & commonJS.
-* [x] Testing with Cypress, Jest, Code Debugging.
-* [x] Webpack.
-* [x] Vite and ViteTesting.
-* [x] Svelte & SvelteKit.
+* [x] Testing with Vitest, React Testing library, Jest, Code Debugging.
+* [x] Webpack, Vite.
 * [x] Component Driven User Interfaces
-* [x] API calls/HTTP Requests using Axios or Fetch API, React Query.
+* [x] API calls/HTTP Requests using Axios, native Fetch API, React Query.
 * [X] API mocking using Mock Service Worker.
 * [x] Documentations: Markdown(.md), Storybookjs (Component Documentation).
 * [x] Version Control System: Git.
