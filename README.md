@@ -8,13 +8,18 @@
 * [x] Vue.js (Vue2.x)
 * [x] Vue.js (Vue3.x)
 * [x] React.js (18^)
-* [ ] Next.js (14^)
+* [x] Next.js (14^)
+* [x] Nuxt.js (3^)
+* [x] React Native
 
 ⚡ Dev.Skills:
 * [x] TypeScript.
+* [x] React.
+* [x] Next.js.
+* [x] React Native.
 * [x] Vue3 Composition Api. 
 * [x] Vue Router.
-* [x] Nuxt2, Nuxt3.
+* [x] Nuxt.js.
 * [x] Quasar.
 * [x] State Management using: contextApi, Zustand, Pinia, Vuex(v3.x) and Vuex(v4.x).
 * [x] Html5, CSS3, SaSS(SCSS).
@@ -34,12 +39,8 @@
 
 ⚡ Currently Learning:
 * [ ] Technical writing.
-* [ ] Firebase.
-* [ ] Supabase.
-* [ ] Nuxt3.
 * [ ] DevOps(kubernetes).
 * [ ] Linux.
-* [ ] React.
 
 ⚡ Productivity Tools:
 * [x] Notion.
