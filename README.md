@@ -1,6 +1,6 @@
 <table><tr><td valign="middle" width="50%">
   
-### Hello 👋 my name is Uche and i am your Front-end Engineer!
+### Hello 👋 my name is Uche and i am your Lead Front-end Engineer!
 - 📫 How to reach me: uchedotphp@gmail.com | +2347063596425.
 
 ⚡ Dev. Libraries and Frameworks:
