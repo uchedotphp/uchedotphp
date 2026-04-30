@@ -1,63 +1,75 @@
-<table><tr><td valign="middle" width="50%">
-  
-### Hello 👋 my name is Uche and i am your Lead Front-end Engineer!
-- 📫 How to reach me: uchedotphp@gmail.com | +2347063596425.
+# 👋 Hi, I'm Uchechukwu (Uche)
 
-⚡ Dev. Libraries and Frameworks:
-* [x] Astro.js
-* [x] Vue.js (Vue2.x)
-* [x] Vue.js (Vue3.x)
-* [x] React.js (18^)
-* [x] Next.js (14^)
-* [x] Nuxt.js (3^)
-* [x] React Native
+**Frontend Architect • Performance Engineer • AI-Augmented Developer**
 
-⚡ Dev.Skills:
-* [x] TypeScript.
-* [x] React.
-* [x] Next.js.
-* [x] React Native.
-* [x] Vue3 Composition Api. 
-* [x] Vue Router.
-* [x] Nuxt.js.
-* [x] Quasar.
-* [x] State Management using: contextApi, Zustand, Pinia, Vuex(v3.x) and Vuex(v4.x).
-* [x] Html5, CSS3, SaSS(SCSS).
-* [x] Bootstrap, TailwindCSS.
-* [x] Vanilla JavaScript, jQuery, ES6, OOP Javascript, Asynchronous JavaScript.
-* [x] ES Next, ES6 Modules & commonJS.
-* [x] Testing with Vitest, React Testing library, Jest, Code Debugging.
-* [x] Webpack, Vite.
-* [x] Component Driven User Interfaces
-* [x] API calls/HTTP Requests using Axios, native Fetch API, React Query.
-* [X] API mocking using Mock Service Worker.
-* [x] Documentations: Markdown(.md), Storybookjs (Component Documentation).
-* [x] Version Control System: Git.
-* [x] Element UI.
-* [x] CRO(Conversion Rate Optimization) Expert tools: Adobe Target, Convert.com.
-* [x] DevOps using Docker.
+I build high-performance, scalable frontend systems for fintech, healthcare, and data-heavy platforms.
 
-⚡ Currently Learning:
-* [ ] Technical writing.
-* [ ] DevOps(kubernetes).
-* [ ] Linux.
+---
 
-⚡ Productivity Tools:
-* [x] Notion.
-* [x] ClickUp.
-* [x] Slack.
-* [x] Trello.
-* [x] Jira.
-* [x] Postman and Hoppscotch (For API testing)
-* [x] Docker.
+## 🚀 Impact Highlights
 
-</td><td valign="middle" width="50%">
+* ⚡ Reduced First Contentful Paint (FCP) by **450ms** on a production fintech platform
+* 🧩 Architected reusable UI systems across **4+ internal products**
+* 🤖 Increased UI delivery speed by **40% using AI workflows (Cursor, Claude, etc.)**
+* 📈 Built high-conversion A/B testing experiments for large-scale platforms
 
-![I am Groot](https://brandphysio.com/images/babygroot.svg)
-###### Some of my projects:
-<p>
-	<a href="https://zuvy.co/"><img height="40" src="https://brandphysio.com/images/logo.svg" alt="Zuvy"></a>
-	<a href="https://www.superpow.app/"><img height="50" src="https://brandphysio.com/images/superpowLogo.png" alt="Superpow"></a></a>
-</p>
+---
 
-</td></tr></table>
+## 🧠 What I Do Best
+
+* **Frontend Architecture** (React, Next.js, Vue, Nuxt)
+* **Performance Optimization** (Core Web Vitals, Lighthouse, bundle tuning)
+* **Design Systems** (Scalable, reusable UI with accessibility in mind)
+* **AI-Augmented Development** (faster builds, smarter refactoring, automated testing)
+* **Experimentation & CRO** (Adobe Target, Convert)
+
+---
+
+## 🛠 Tech Stack
+
+`React` `Next.js` `Vue` `Nuxt` `TypeScript`
+`Tailwind` `Shadcn/UI` `Storybook`
+`Zustand` `GraphQL` `REST`
+`Playwright` `Docker` `CI/CD`
+
+---
+
+## 🧪 Featured Work
+
+> These projects reflect how I think, not just what I build.
+
+### ⚡ High-Performance Dashboard
+
+A data-heavy dashboard optimized for speed and scalability
+→ Focus: performance, state management, architecture
+
+### 🧩 Design System (Scalable UI)
+
+Reusable component library built for consistency and speed
+→ Focus: accessibility, tokens, maintainability
+
+### 🤖 AI Frontend Workflows
+
+How I use AI tools to accelerate development and reduce bugs
+→ Focus: prompts, automation, testing
+
+### 🧪 Experimentation Framework
+
+Safe and scalable A/B testing system
+→ Focus: DOM safety, performance, analytics
+
+---
+
+## 🧠 Engineering Philosophy
+
+* Performance is a feature, not an afterthought
+* UI is a system, not a collection of pages
+* Code should scale teams, not just applications
+* Simplicity > cleverness
+
+---
+
+## 📫 Let's Connect
+
+* LinkedIn: https://www.linkedin.com/in/uchedotphp/
+* Email: [uchedotphp@gmail.com](mailto:uchedotphp@gmail.com)
