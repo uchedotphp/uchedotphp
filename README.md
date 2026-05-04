@@ -8,7 +8,7 @@ I build high-performance, scalable frontend systems for fintech, healthcare, and
 
 ## 🚀 Impact Highlights
 
-* ⚡ Reduced First Contentful Paint (FCP) by **450ms** on a production fintech platform
+* ⚡ Reduced First Contentful Paint (FCP) by **450ms** on a production fintech platform.
 * 🧩 Architected reusable UI systems across **4+ internal products**
 * 🤖 Increased UI delivery speed by **40% using AI workflows (Cursor, Claude, etc.)**
 * 📈 Built high-conversion A/B testing experiments for large-scale platforms
