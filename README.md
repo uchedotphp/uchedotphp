@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Uchechukwu (Uche)
+# 👋 Hi, I'm Uchechukwu (Uoo-Chay-Chuu-Kuu)
 
-**Frontend Architect • Performance Engineer • AI-Augmented Developer**
+**Fullstack • Performance Engineer • AI-Augmented Developer**
 
 I build high-performance, scalable frontend systems for fintech, healthcare, and data-heavy platforms.
 
